@@ -1,0 +1,6 @@
+streamlit>=1.38
+torch
+torchvision
+timm
+Pillow
+numpy
